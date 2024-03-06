@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jai Prakash</h1>
+<h1 align="center">Hi 👋, I'm Jai Prakash from Trichy</h1>
 <h3 align="center">A passionate Frontend developer and Proficient in Python for Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiprakashoffcl&label=Profile%20views&color=0e75b6&style=flat" alt="jaiprakashoffcl" /> </p>
