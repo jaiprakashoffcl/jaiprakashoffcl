@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaiprakashoffcl" alt="jaiprakashoffcl" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-jaiprakash-three.vercel.app/](https://portfolio-website-jaiprakash-three.vercel.app/)
+- 👨‍💻 Portfolio Website:[https://portfolio-website-jaiprakash-three.vercel.app/](https://portfolio-website-jaiprakash-three.vercel.app/)
 
 - 📫 How to reach me **jaiprakash292033@gmail.com**
 
