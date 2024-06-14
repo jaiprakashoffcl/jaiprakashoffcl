@@ -121,33 +121,27 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiprakashoffcl&show_icons=true&locale=en&layout=compact" alt="jaiprakashoffcl" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiprakashoffcl&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jaiprakashoffcl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiprakashoffcl&show_icons=true&locale=en" alt="jaiprakashoffcl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiprakashoffcl&show_icons=true&locale=en&theme=dracula" alt="jaiprakashoffcl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiprakashoffcl&" alt="jaiprakashoffcl" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiprakashoffcl&theme=dracula" alt="jaiprakashoffcl" /></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aridepai17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aridepai17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=aridepai17&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aridepai17&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiprakashoffcl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiprakashoffcl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jaiprakashoffcl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiprakashoffcl&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
 <br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-###
-
 <div align="center">
   <img height="200" src="http://employees.oneonta.edu/bugyijp/cart306/may-the-source-img.png"  />
 </div>
-
-###
