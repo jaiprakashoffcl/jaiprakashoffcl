@@ -124,10 +124,9 @@
 ## Top Open Source Projects
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=Portfolio-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Portfolio-website)
-[![Flipkart Product Review Sentimental Analysis](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=project-2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Flipkart_Product_Review_Sentiment_Analysis)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=project-3&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/project-3)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=project-4&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/project-4)
-
+[![Flipkart Product Review Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=Flipkart_Product_Review_Sentiment_Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Flipkart_Product_Review_Sentiment_Analysis)
+[![Movie Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=Movie-Recommendation_System&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Movie-Recommendation_System)
+[![Foreign Trading System](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=FOREIGN-TRADING-SYSTEM&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/FOREIGN-TRADING-SYSTEM)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaiprakashoffcl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
