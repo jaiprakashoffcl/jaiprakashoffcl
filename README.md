@@ -45,7 +45,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaiprakash._.official" height="30" width="40" />
   </a>
 </p>
-
+<br>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -79,7 +79,7 @@ Windows                  26 hrs 17 mins      ███████████�
 
  Last Updated on 14-06-2024 14:05:27 UTC
 <!--END_SECTION:waka-->
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
