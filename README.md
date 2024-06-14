@@ -97,11 +97,11 @@ Windows                  26 hrs 17 mins      ███████████�
       <br>GraphQL
     </td>
     <td align="center" width="96"> 
-        <img src="https://www.selenium.dev/images/selenium_logo_large.png" alt="Selenium" width="65" height="65">
+        <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="65" height="65">
     <br>Selenium
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="java-icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
       <br>Java
     </td>
     <td align="center" width="96">
