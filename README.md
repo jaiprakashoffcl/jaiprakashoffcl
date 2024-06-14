@@ -145,7 +145,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-<div align="center">
-  <img height="200" src="http://employees.oneonta.edu/bugyijp/cart306/may-the-source-img.png"  />
-</div>
