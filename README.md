@@ -91,8 +91,8 @@ Windows                  26 hrs 17 mins      ███████████�
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="graphql-icon" width="65" height="65" />
-      <br>GraphQL
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
+      <br>Pandas
     </td>
     <td align="center" width="96"> 
         <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="65" height="65">
@@ -113,8 +113,12 @@ Windows                  26 hrs 17 mins      ███████████�
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
+      <br>Keras
+    </td>
+   <td align="center" width="96">
+      <img src="https://matplotlib.org/3.3.4/_static/logo2_compressed.svg" alt="Matplotlib" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
+      <br>Matplotlib
     </td>
   </tr>
   <tr>
@@ -138,13 +142,17 @@ Windows                  26 hrs 17 mins      ███████████�
       <br>Bootstrap
     </td>
       <td align="center" width="96">
-        <img src="https://4.bp.blogspot.com/-mNAYu8OwYOw/W82aXiapHYI/AAAAAAAAGkg/hjmq84D2Jj8RBp5l9rMNTk7n79KeuPw1QCEwYBhgL/s1600/InsistentSardonicAppaloosa-size_restricted.gif" width="48" height="48" alt="SQL" />
-      <br>SQL
+         <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
+      <br>NumPy
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
       </td>
+     <td align="center" width="96">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
+     <br>OpenCV
+     </td>
       </td>
    
   
