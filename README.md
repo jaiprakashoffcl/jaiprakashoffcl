@@ -84,8 +84,6 @@ Windows                  26 hrs 17 mins      ███████████�
 ```
 
 ## Languages and Tools
-
-## Languages and Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
