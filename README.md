@@ -126,8 +126,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiprakashoffcl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jaiprakashoffcl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiprakashoffcl&show_icons=true&locale=en&theme=tokyonight" alt="jaiprakashoffcl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiprakashoffcl&theme=tokyonight" alt="jaiprakashoffcl" /></p>
