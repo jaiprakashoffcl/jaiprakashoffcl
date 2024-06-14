@@ -124,13 +124,8 @@
   </a>
 </p>
 
-<!-- Top Languages Card -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiprakashoffcl&layout=compact&theme=tokyonight" alt="jaiprakashoffcl" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiprakashoffcl&show_icons=true&locale=en&layout=compact" alt="jaiprakashoffcl" /></p>
 
-<!-- GitHub Stats Card -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=jaiprakashoffcl&show_icons=true&theme=tokyonight" alt="jaiprakashoffcl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiprakashoffcl&show_icons=true&locale=en" alt="jaiprakashoffcl" /></p>
 
-<!-- GitHub Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiprakashoffcl&theme=tokyonight" alt="jaiprakashoffcl" /></p>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiprakashoffcl&" alt="jaiprakashoffcl" /></p>
