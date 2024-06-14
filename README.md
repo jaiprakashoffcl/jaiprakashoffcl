@@ -124,7 +124,7 @@
 ## Top Open Source Projects
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=Portfolio-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Portfolio-website)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=project-2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/project-2)
+[![Flipkart Product Review Sentimental Analysis](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=project-2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Flipkart_Product_Review_Sentiment_Analysis)
 [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=project-3&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/project-3)
 [![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=project-4&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/project-4)
 
