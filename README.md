@@ -85,54 +85,77 @@ Windows                  26 hrs 17 mins      ███████████�
 
 ## Languages and Tools
 
-<div align="center">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
-    <br>React
-
-    <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48">
-    <br>C
-
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="65" height="65">
-    <br>Java
-
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48">
-    <br>Figma
-
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="48" height="48">
-    <br>Vercel
-
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
-    <br>JavaScript
-
-    <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
-    </a>
-    <br>Python
-
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65">
-    <br>MySQL
-
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65">
-    <br>Django
-
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65">
-    <br>GitHub
-
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48">
-    <br>HTML5
-
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48">
-    <br>CSS
-
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48">
-    <br>Bootstrap
-
-    <img src="https://4.bp.blogspot.com/-mNAYu8OwYOw/W82aXiapHYI/AAAAAAAAGkg/hjmq84D2Jj8RBp5l9rMNTk7n79KeuPw1QCEwYBhgL/s1600/InsistentSardonicAppaloosa-size_restricted.gif" alt="SQL" width="48" height="48">
-    <br>SQL
-
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48">
-    <br>Node.js
-</div>
+## Languages and Tools
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="graphql-icon" width="65" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://www.selenium.dev/images/selenium_logo_large.png" alt="Selenium" width="65" height="65">
+    <br>Selenium
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="java-icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+      <td align="center" width="96">
+        <img src="https://4.bp.blogspot.com/-mNAYu8OwYOw/W82aXiapHYI/AAAAAAAAGkg/hjmq84D2Jj8RBp5l9rMNTk7n79KeuPw1QCEwYBhgL/s1600/InsistentSardonicAppaloosa-size_restricted.gif" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+   
+  
+ </tr>
+</table>
+<br><br>
+</tr>
+</tr></tr>
+-----
 
 
 ## Top Open Source Projects
