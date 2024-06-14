@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/twitter/follow/jaiprakashoffcl?logo=twitter&style=for-the-badge" alt="jaiprakashoffcl" />
   </a> 
 </p>
-
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 - 🌱 I’m currently learning **Figma, Android Studio, Flutter**
 
 - 👯 I’m looking to collaborate on [Portfolio Website](https://github.com/jaiprakashoffcl/Portfolio-website)
@@ -28,6 +29,7 @@
 - 📫 How to reach me **jaiprakash292033@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1kFfZCq1MvnWyvpjr3UR4WHGlvElIr0yc/edit?usp=drivesdk&ouid=116384036152653188423&rtpof=true&sd=true)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
