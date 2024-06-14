@@ -18,7 +18,7 @@
 </p>
 <p>
   
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
 - 🌱 I’m currently learning **Figma, Android Studio, Flutter**
 
 - 👯 I’m looking to collaborate on [Portfolio Website](https://github.com/jaiprakashoffcl/Portfolio-website)
