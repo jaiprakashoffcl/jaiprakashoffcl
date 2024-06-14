@@ -47,55 +47,34 @@
 </p>
 <br>
 <!--START_SECTION:waka-->
-<div style="background-color: #f0f0f0; border-radius: 10px; padding: 20px;">
-  <h2 style="color: #333;">My Coding Activity</h2>
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-      <h3>Morning</h3>
-      <p>200 commits (10.81%)</p>
-    </div>
-    <div style="flex: 1;">
-      <h3>Daytime</h3>
-      <p>212 commits (43.15%)</p>
-    </div>
-    <div style="flex: 1;">
-      <h3>Evening</h3>
-      <p>198 commits (33.95%)</p>
-    </div>
-    <div style="flex: 1;">
-      <h3>Night</h3>
-      <p>76 commits (12.09%)</p>
-    </div>
-  </div>
-  <h2 style="color: #333;">Weekly Coding Stats</h2>
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-      <h3>Python</h3>
-      <p>20 hrs 8 mins (76.65%)</p>
-    </div>
-    <div style="flex: 1;">
-      <h3>CSS</h3>
-      <p>2 hrs 42 mins (10.31%)</p>
-    </div>
-    <div style="flex: 1;">
-      <h3>JavaScript</h3>
-      <p>53 mins (3.39%)</p>
-    </div>
-    <div style="flex: 1;">
-      <h3>HTML</h3>
-      <p>33 mins (2.13%)</p>
-    </div>
-    <div style="flex: 1;">
-      <h3>JSON</h3>
-      <p>27 mins (1.72%)</p>
-    </div>
-  </div>
-  <h2 style="color: #333;">Editor & OS</h2>
-  <p>VS Code (26 hrs 17 mins)</p>
-  <p>Windows (100.00%)</p>
-  <p style="font-size: 12px; color: #666;">Last Updated on 14-06-2024 14:05:27 UTC</p>
-</div>
-<!--END_SECTION:waka-->
+ I'm an Early🐤
+
+```text
+🌞 Morning                200 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+🌆 Daytime                212 commits        ███████████░░░░░░░░░░░░░░   43.15 % 
+🌃 Evening                198 commits        ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌙 Night                  76 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: India/Asia
+
+💬 Programming Languages: 
+Python                   20 hrs 8 mins       ███████████████████░░░░░░   76.65 % 
+CSS                      2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+
+🔥 Editors: 
+VS Code                  26 hrs 17 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  26 hrs 17 mins      █████████████████████████   100.00 % 
+```
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
