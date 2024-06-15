@@ -29,8 +29,6 @@
  
 - 🌱 I’m currently learning **Figma, Android Studio, Flutter**
 
-- 👯 I’m looking to collaborate on [Portfolio Website](https://github.com/jaiprakashoffcl/Portfolio-website)
-
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-website-jaiprakash-three.vercel.app/)
 
 - 💬 Ask me about **Machine Learning, Python, Full Stack Web Development**
