@@ -5,7 +5,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+,All+!+%F0%9F%91%8B+;+I'm+Jai+Prakash!" alt="Jai Prakash" /></a>
     </h1>
-<h3 align="center">A Versatile Full Stack Developer and a Machine Learning Enthusiast from Tamil Nadu, India</h3>
+<h3 align="center">A Versatile Full Stack Developer and a Machine Learning Enthusiast from Trichy,Tamil Nadu, India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jaiprakashoffcl&label=Profile%20views&color=0e75b6&style=flat&label=👁️" alt="jaiprakashoffcl" /> 
