@@ -20,8 +20,9 @@
 
 
 <h3>🔗Connect with me:</h3>
-<p><a href="https://github.com/jaiprakashoffcl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/jaiprakashoffcl" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jai-prakash-ramesh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p align="center"><a href="https://github.com/jaiprakashoffcl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/jaiprakashoffcl" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jai-prakash-ramesh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+</br>
  
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
  
@@ -34,19 +35,6 @@
 - 📫 How to reach me **jaiprakash292033@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1kFfZCq1MvnWyvpjr3UR4WHGlvElIr0yc/edit?usp=drivesdk&ouid=116384036152653188423&rtpof=true&sd=true)
-</p>
-
-<h3 align="left">🔗Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/jaiprakashoffcl" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiprakashoffcl" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/jai-prakash-ramesh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai-prakash-ramesh" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/jaiprakash._.official" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaiprakash._.official" height="30" width="40" />
-  </a>
 </p>
 <br>
 
