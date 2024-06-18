@@ -8,6 +8,7 @@ from subprocess import Popen
 import sys
 
 
+
 def main(def_args=sys.argv[1:]):
     args = arguments(def_args)
     curr_date = datetime.now()
