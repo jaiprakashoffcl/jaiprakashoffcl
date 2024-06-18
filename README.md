@@ -39,7 +39,7 @@
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1kFfZCq1MvnWyvpjr3UR4WHGlvElIr0yc/edit?usp=drivesdk&ouid=116384036152653188423&rtpof=true&sd=true)
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/jaiprakashoffcl" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiprakashoffcl" height="30" width="40" />
@@ -161,7 +161,6 @@ Windows                  15 hrs 63 mins      ███████████�
 <br><br>
 </tr>
 </tr></tr>
-
 
 
 ## Top Open Source Projects
