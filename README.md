@@ -7,9 +7,6 @@
     </h1>
 <h3 align="center">A Versatile Full Stack Developer and a Machine Learning Enthusiast from Trichy,Tamil Nadu, India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jaiprakashoffcl&label=Profile%20views&color=0e75b6&style=flat&label=👁️" alt="jaiprakashoffcl" /> 
-</p>
 
 <br>
 <p align="center">
