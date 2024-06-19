@@ -7,6 +7,7 @@
     </h1>
 <h3 align="center">A Versatile Full Stack Developer and a Machine Learning Enthusiast from Trichy, Tamil Nadu, India</h3>
 
+
 <br>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
