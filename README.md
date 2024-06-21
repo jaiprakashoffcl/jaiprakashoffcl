@@ -10,7 +10,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chavi362&theme=tokyonight" alt="jaiprakashoffcl">
+    <img src="https://github-profile-trophy.vercel.app/?username=jaiprakashoffcl&theme=tokyonight" alt="jaiprakashoffcl">
   </a>
 </p>
  
