@@ -132,7 +132,7 @@ Windows                  15 hrs 63 mins      ███████████�
      <br>OpenCV
      </td>
       </td>
-   
+  
  </tr>
 </table>
 <br><br>
