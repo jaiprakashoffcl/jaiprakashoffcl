@@ -139,7 +139,6 @@ Windows                  15 hrs 63 mins      ███████████�
 </tr>
 </tr></tr>
 
-
 ## Top Open Source Projects
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=Portfolio-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Portfolio-website)
@@ -160,7 +159,6 @@ Windows                  15 hrs 63 mins      ███████████�
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-   ![Rahul's LeetCode Stats](https://leetcard.jacoblin.cool/rahuls25?theme=dark&font=Marcellus)
 </picture>
 
  
