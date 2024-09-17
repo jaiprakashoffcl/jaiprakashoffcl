@@ -19,7 +19,7 @@
 </br>
 
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
- 
+  
 - 🌱 I’m currently learning **Machine Learning, Python, Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-website-jaiprakash-three.vercel.app/)
