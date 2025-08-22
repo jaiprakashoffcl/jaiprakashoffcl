@@ -22,7 +22,7 @@
  
 - 🌱 I’m currently learning **UI/UX, Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-website-jaiprakash-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://jaiprakash.framer.website/)
 
 - 💬 Ask me about **Designing, Full Stack Web Development**
 
@@ -33,83 +33,65 @@
 <br>
 
 
-## Languages and Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
-      <br>Pandas
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="65" height="65">
-    <br>Selenium
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
-      <br>Keras
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+      <br>Node.js
     </td>
-   <td align="center" width="96">
-      <img src="https://matplotlib.org/3.3.4/_static/logo2_compressed.svg" alt="Matplotlib" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
-      <br>Matplotlib
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+      <br>CSS3
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
       <br>Bootstrap
     </td>
-      <td align="center" width="96">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
-      <br>NumPy
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+      <br>GitHub
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-     <td align="center" width="96">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;">
-     <br>OpenCV
-     </td>
-      </td>
-  
- </tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="48" height="48" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="48" height="48" />
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/framer.svg" width="48" height="48" />
+      <br>Framer
+    </td>
+  </tr>
 </table>
-<br><br>
-</tr>
-</tr></tr>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaiprakashoffcl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
