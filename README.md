@@ -5,7 +5,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+,All+!+%F0%9F%91%8B+;+I'm+Jai+Prakash!" alt="Jai Prakash" /></a>
 </h1>
-<h3 align="center">A Versatile Full Stack Developer and a Machine Learning Enthusiast from Tamil Nadu, India</h3>
+<h3 align="center">A Versatile Full Stack Developer and Graphic Designer from Tamil Nadu, India</h3>
 
 <br>
 <p align="center">
@@ -20,46 +20,18 @@
 
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
  
-- 🌱 I’m currently learning **Machine Learning, Python, Full Stack Web Development**
+- 🌱 I’m currently learning **UI/UX, Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-website-jaiprakash-three.vercel.app/)
 
-- 💬 Ask me about **Machine Learning, Python, Full Stack Web Development**
+- 💬 Ask me about **Designing, Full Stack Web Development**
 
 - 📫 How to reach me **jaiprakash292033@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1kFfZCq1MvnWyvpjr3UR4WHGlvElIr0yc/edit?usp=drivesdk&ouid=116384036152653188423&rtpof=true&sd=true)
 </p>
-<br> 
+<br>
 
-<!--START_SECTION:waka-->
- I'm an Early🐤
-
-```text
-🌞 Morning                200 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-🌆 Daytime                212 commits        ███████████░░░░░░░░░░░░░░   43.15 % 
-🌃 Evening                198 commits        ████████░░░░░░░░░░░░░░░░░   33.95 % 
-🌙 Night                  76 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-```
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: India/Asia
-
-💬 Programming Languages: 
-Python                   10 hrs 8 mins       ███████████████████░░░░░░   76.65 % 
-CSS                      2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 63 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  15 hrs 63 mins      █████████████████████████   100.00 % 
-```
 
 ## Languages and Tools
 <table align="center">
@@ -138,13 +110,6 @@ Windows                  15 hrs 63 mins      ███████████�
 <br><br>
 </tr>
 </tr></tr>
-
-## Top Open Source Projects
-
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=Portfolio-website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Portfolio-website)
-[![Flipkart Product Review Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=Flipkart_Product_Review_Sentiment_Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Flipkart_Product_Review_Sentiment_Analysis)
-[![Movie Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=Movie-Recommendation_System&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/Movie-Recommendation_System)
-[![Foreign Trading System](https://github-readme-stats.vercel.app/api/pin/?username=jaiprakashoffcl&repo=FOREIGN-TRADING-SYSTEM&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jaiprakashoffcl/FOREIGN-TRADING-SYSTEM)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaiprakashoffcl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
