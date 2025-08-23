@@ -13,14 +13,13 @@
     <img src="https://github-profile-trophy.vercel.app/?username=jaiprakashoffcl&theme=tokyonight" alt="jaiprakashoffcl">
   </a>
 </p>
-</br>
 
 <p align="center"><a href="https://github.com/jaiprakashoffcl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/jaiprakashoffcl" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jai-prakash-ramesh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@jaiprakash292033" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p> 
 </br>
 
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
- </br>
+
 - 🌱 I’m currently learning **UI/UX, Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://jaiprakash.framer.website/)
