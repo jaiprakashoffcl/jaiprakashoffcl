@@ -28,7 +28,6 @@
 
 - 📫 How to reach me **jaiprakash292033@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1kFfZCq1MvnWyvpjr3UR4WHGlvElIr0yc/edit?usp=drivesdk&ouid=116384036152653188423&rtpof=true&sd=true)
 </p>
 <br>
 
