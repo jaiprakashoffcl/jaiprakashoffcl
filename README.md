@@ -31,7 +31,7 @@
 </p>
 <br>
 
-<br>
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -90,7 +90,8 @@
     </td>
   </tr>
 </table>
-</br>
+<br>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaiprakashoffcl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
