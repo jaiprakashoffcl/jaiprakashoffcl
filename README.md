@@ -20,7 +20,7 @@
 </br>
 
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
- 
+ </br>
 - 🌱 I’m currently learning **UI/UX, Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://jaiprakash.framer.website/)
