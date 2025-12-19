@@ -30,7 +30,7 @@
   </a>
 
   <!-- ⭐ GeeksforGeeks Badge -->
-  <a href="[https://www.geeksforgeeks.org/user/jaiprakashr/](https://www.geeksforgeeks.org/profile/jaiprakashr?tab=activity)" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/jaiprakashr?tab=activity" target="_blank">
     <img alt="GeeksforGeeks"
          src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
