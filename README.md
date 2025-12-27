@@ -102,16 +102,6 @@
 
 <br>
 
-<!-- ⭐ GFG STATS CARD -->
-<h2 align="center">📗 GeeksforGeeks Stats</h2>
-
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/jaiprakashr/">
-    <img src="https://gfgstatscard.vercel.app/jaiprakashr" alt="GFG stats" />
-  </a>
-</p>
-
-<br>
 
 <!-- ⭐ GITHUB STATS -->
 <div align="center">
