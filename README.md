@@ -1,7 +1,7 @@
 <div align="center"> 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>   
- 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&width=435&lines=Hi+,All+!+👋;+I'm+Jai+Prakash!" />
